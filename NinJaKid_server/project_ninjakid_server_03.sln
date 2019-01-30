@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project_ninjakid_server_03", "project_ninjakid_server_03\project_ninjakid_server_03.csproj", "{26679DB2-1554-4526-969C-D8CE0D4AD2AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project_ninjakid_client_03", "project_ninjakid_client_03\project_ninjakid_client_03.csproj", "{0D02F075-C1F7-42E9-8049-8C2B07D91D6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26679DB2-1554-4526-969C-D8CE0D4AD2AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26679DB2-1554-4526-969C-D8CE0D4AD2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26679DB2-1554-4526-969C-D8CE0D4AD2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26679DB2-1554-4526-969C-D8CE0D4AD2AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D02F075-C1F7-42E9-8049-8C2B07D91D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D02F075-C1F7-42E9-8049-8C2B07D91D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D02F075-C1F7-42E9-8049-8C2B07D91D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D02F075-C1F7-42E9-8049-8C2B07D91D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {487F1404-44A0-4D0E-A2A4-FD730101EC6F}
+	EndGlobalSection
+EndGlobal

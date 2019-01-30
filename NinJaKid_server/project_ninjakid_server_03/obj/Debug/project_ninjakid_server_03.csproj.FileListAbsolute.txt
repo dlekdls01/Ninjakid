@@ -1,0 +1,9 @@
+C:\Users\Hyeona\source\repos\project_ninjakid_server_03\project_ninjakid_server_03\bin\Debug\project_ninjakid_server_03.exe
+C:\Users\Hyeona\source\repos\project_ninjakid_server_03\project_ninjakid_server_03\bin\Debug\project_ninjakid_server_03.pdb
+C:\Users\Hyeona\source\repos\project_ninjakid_server_03\project_ninjakid_server_03\obj\Debug\project_ninjakid_server_03.csprojResolveAssemblyReference.cache
+C:\Users\Hyeona\source\repos\project_ninjakid_server_03\project_ninjakid_server_03\obj\Debug\project_ninjakid_server_03.Form1.resources
+C:\Users\Hyeona\source\repos\project_ninjakid_server_03\project_ninjakid_server_03\obj\Debug\project_ninjakid_server_03.Properties.Resources.resources
+C:\Users\Hyeona\source\repos\project_ninjakid_server_03\project_ninjakid_server_03\obj\Debug\project_ninjakid_server_03.csproj.GenerateResource.cache
+C:\Users\Hyeona\source\repos\project_ninjakid_server_03\project_ninjakid_server_03\obj\Debug\project_ninjakid_server_03.csproj.CoreCompileInputs.cache
+C:\Users\Hyeona\source\repos\project_ninjakid_server_03\project_ninjakid_server_03\obj\Debug\project_ninjakid_server_03.exe
+C:\Users\Hyeona\source\repos\project_ninjakid_server_03\project_ninjakid_server_03\obj\Debug\project_ninjakid_server_03.pdb

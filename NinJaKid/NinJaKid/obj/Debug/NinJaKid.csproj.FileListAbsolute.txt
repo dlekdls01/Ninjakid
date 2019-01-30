@@ -1,0 +1,202 @@
+C:\Users\user562\Desktop\닌자키드\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe.config
+C:\Users\user562\Desktop\닌자키드\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe
+C:\Users\user562\Desktop\닌자키드\NinJaKid\NinJaKid\bin\Debug\NinJaKid.pdb
+C:\Users\user562\Desktop\닌자키드\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csprojResolveAssemblyReference.cache
+C:\Users\user562\Desktop\닌자키드\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form1.resources
+C:\Users\user562\Desktop\닌자키드\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Properties.Resources.resources
+C:\Users\user562\Desktop\닌자키드\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.GenerateResource.cache
+C:\Users\user562\Desktop\닌자키드\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.CoreCompileInputs.cache
+C:\Users\user562\Desktop\닌자키드\NinJaKid\NinJaKid\obj\Debug\NinJaKid.exe
+C:\Users\user562\Desktop\닌자키드\NinJaKid\NinJaKid\obj\Debug\NinJaKid.pdb
+C:\Users\광진\Desktop\닌자키드\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe.config
+C:\Users\광진\Desktop\닌자키드\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe
+C:\Users\광진\Desktop\닌자키드\NinJaKid\NinJaKid\bin\Debug\NinJaKid.pdb
+C:\Users\광진\Desktop\닌자키드\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csprojResolveAssemblyReference.cache
+C:\Users\광진\Desktop\닌자키드\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form1.resources
+C:\Users\광진\Desktop\닌자키드\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Properties.Resources.resources
+C:\Users\광진\Desktop\닌자키드\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.GenerateResource.cache
+C:\Users\광진\Desktop\닌자키드\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.CoreCompileInputs.cache
+C:\Users\광진\Desktop\닌자키드\NinJaKid\NinJaKid\obj\Debug\NinJaKid.exe
+C:\Users\광진\Desktop\닌자키드\NinJaKid\NinJaKid\obj\Debug\NinJaKid.pdb
+C:\Users\dndud\OneDrive\문서\카카오톡 받은 파일\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe.config
+C:\Users\dndud\OneDrive\문서\카카오톡 받은 파일\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe
+C:\Users\dndud\OneDrive\문서\카카오톡 받은 파일\NinJaKid\NinJaKid\bin\Debug\NinJaKid.pdb
+C:\Users\dndud\OneDrive\문서\카카오톡 받은 파일\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csprojResolveAssemblyReference.cache
+C:\Users\dndud\OneDrive\문서\카카오톡 받은 파일\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form1.resources
+C:\Users\dndud\OneDrive\문서\카카오톡 받은 파일\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Properties.Resources.resources
+C:\Users\dndud\OneDrive\문서\카카오톡 받은 파일\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.GenerateResource.cache
+C:\Users\dndud\OneDrive\문서\카카오톡 받은 파일\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.CoreCompileInputs.cache
+C:\Users\dndud\OneDrive\문서\카카오톡 받은 파일\NinJaKid\NinJaKid\obj\Debug\NinJaKid.exe
+C:\Users\dndud\OneDrive\문서\카카오톡 받은 파일\NinJaKid\NinJaKid\obj\Debug\NinJaKid.pdb
+C:\Users\광진\Desktop\카카오톡 받은 파일\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe.config
+C:\Users\광진\Desktop\카카오톡 받은 파일\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe
+C:\Users\광진\Desktop\카카오톡 받은 파일\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csprojResolveAssemblyReference.cache
+C:\Users\광진\Desktop\카카오톡 받은 파일\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form1.resources
+C:\Users\광진\Desktop\카카오톡 받은 파일\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Properties.Resources.resources
+C:\Users\광진\Desktop\카카오톡 받은 파일\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.GenerateResource.cache
+C:\Users\광진\Desktop\카카오톡 받은 파일\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.CoreCompileInputs.cache
+C:\Users\광진\Desktop\카카오톡 받은 파일\NinJaKid\NinJaKid\obj\Debug\NinJaKid.exe
+C:\Users\광진\Desktop\카카오톡 받은 파일\NinJaKid\NinJaKid\obj\Debug\NinJaKid.pdb
+C:\Users\광진\Desktop\카카오톡 받은 파일\NinJaKid\NinJaKid\bin\Debug\NinJaKid.pdb
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (6)\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe.config
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (6)\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (6)\NinJaKid\NinJaKid\bin\Debug\NinJaKid.pdb
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (6)\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csprojResolveAssemblyReference.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (6)\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form1.resources
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (6)\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Properties.Resources.resources
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (6)\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.GenerateResource.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (6)\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.CoreCompileInputs.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (6)\NinJaKid\NinJaKid\obj\Debug\NinJaKid.exe
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (6)\NinJaKid\NinJaKid\obj\Debug\NinJaKid.pdb
+C:\Users\user562\Desktop\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe.config
+C:\Users\user562\Desktop\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe
+C:\Users\user562\Desktop\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\bin\Debug\NinJaKid.pdb
+C:\Users\user562\Desktop\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csprojResolveAssemblyReference.cache
+C:\Users\user562\Desktop\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form1.resources
+C:\Users\user562\Desktop\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Properties.Resources.resources
+C:\Users\user562\Desktop\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.GenerateResource.cache
+C:\Users\user562\Desktop\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.CoreCompileInputs.cache
+C:\Users\user562\Desktop\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.exe
+C:\Users\user562\Desktop\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.pdb
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (3)_userNum부여\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe.config
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (3)_userNum부여\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (3)_userNum부여\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\bin\Debug\NinJaKid.pdb
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (3)_userNum부여\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csprojResolveAssemblyReference.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (3)_userNum부여\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form1.resources
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (3)_userNum부여\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Properties.Resources.resources
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (3)_userNum부여\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.GenerateResource.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (3)_userNum부여\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.CoreCompileInputs.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (3)_userNum부여\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.exe
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (3)_userNum부여\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.pdb
+C:\Users\user562\Desktop\새 폴더 (2)\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe.config
+C:\Users\user562\Desktop\새 폴더 (2)\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe
+C:\Users\user562\Desktop\새 폴더 (2)\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\bin\Debug\NinJaKid.pdb
+C:\Users\user562\Desktop\새 폴더 (2)\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csprojResolveAssemblyReference.cache
+C:\Users\user562\Desktop\새 폴더 (2)\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form1.resources
+C:\Users\user562\Desktop\새 폴더 (2)\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Properties.Resources.resources
+C:\Users\user562\Desktop\새 폴더 (2)\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.GenerateResource.cache
+C:\Users\user562\Desktop\새 폴더 (2)\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.CoreCompileInputs.cache
+C:\Users\user562\Desktop\새 폴더 (2)\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.exe
+C:\Users\user562\Desktop\새 폴더 (2)\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.pdb
+C:\Users\user562\Desktop\새 폴더 (2)\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form2.resources
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (5)_작업중\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe.config
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (5)_작업중\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (5)_작업중\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\bin\Debug\NinJaKid.pdb
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (5)_작업중\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csprojResolveAssemblyReference.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (5)_작업중\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form1.resources
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (5)_작업중\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form2.resources
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (5)_작업중\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Properties.Resources.resources
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (5)_작업중\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.GenerateResource.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (5)_작업중\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.CoreCompileInputs.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (5)_작업중\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.exe
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (5)_작업중\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (7)_userNum부여\NinJaKid\NinJaKid\obj\Debug\NinJaKid.pdb
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (5)_작업중\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (6)_작업중\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe.config
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (5)_작업중\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (6)_작업중\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (5)_작업중\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (6)_작업중\NinJaKid\NinJaKid\bin\Debug\NinJaKid.pdb
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (5)_작업중\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (6)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csprojResolveAssemblyReference.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (5)_작업중\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (6)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form1.resources
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (5)_작업중\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (6)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form2.resources
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (5)_작업중\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (6)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Properties.Resources.resources
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (5)_작업중\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (6)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.GenerateResource.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (5)_작업중\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (6)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.CoreCompileInputs.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (5)_작업중\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (6)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.exe
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (5)_작업중\카카오톡 받은 파일 (3)_작업중\카카오톡 받은 파일 (6)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.pdb
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe.config
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\bin\Debug\NinJaKid.pdb
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csprojResolveAssemblyReference.cache
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form1.resources
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form2.resources
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Properties.Resources.resources
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.GenerateResource.cache
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.CoreCompileInputs.cache
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.exe
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.pdb
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (7)_작업중\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe.config
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (7)_작업중\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (7)_작업중\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\bin\Debug\NinJaKid.pdb
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (7)_작업중\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csprojResolveAssemblyReference.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (7)_작업중\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form1.resources
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (7)_작업중\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form2.resources
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (7)_작업중\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Properties.Resources.resources
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (7)_작업중\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.GenerateResource.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (7)_작업중\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.CoreCompileInputs.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (7)_작업중\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.exe
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (7)_작업중\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.pdb
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (8)_작업중\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe.config
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (8)_작업중\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (8)_작업중\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\bin\Debug\NinJaKid.pdb
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (8)_작업중\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csprojResolveAssemblyReference.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (8)_작업중\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form1.resources
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (8)_작업중\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form2.resources
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (8)_작업중\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Properties.Resources.resources
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (8)_작업중\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.GenerateResource.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (8)_작업중\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.CoreCompileInputs.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (8)_작업중\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.exe
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (8)_작업중\카카오톡 받은 파일 (7)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.pdb
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (8)_작업중111\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe.config
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (8)_작업중111\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (8)_작업중111\NinJaKid\NinJaKid\bin\Debug\NinJaKid.pdb
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (8)_작업중111\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csprojResolveAssemblyReference.cache
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (8)_작업중111\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form1.resources
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (8)_작업중111\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form2.resources
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (8)_작업중111\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Properties.Resources.resources
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (8)_작업중111\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.GenerateResource.cache
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (8)_작업중111\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.CoreCompileInputs.cache
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (8)_작업중111\NinJaKid\NinJaKid\obj\Debug\NinJaKid.exe
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (8)_작업중111\NinJaKid\NinJaKid\obj\Debug\NinJaKid.pdb
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (9)_작업중\카카오톡 받은 파일 (8)_작업중111\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe.config
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (9)_작업중\카카오톡 받은 파일 (8)_작업중111\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (9)_작업중\카카오톡 받은 파일 (8)_작업중111\NinJaKid\NinJaKid\bin\Debug\NinJaKid.pdb
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (9)_작업중\카카오톡 받은 파일 (8)_작업중111\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csprojResolveAssemblyReference.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (9)_작업중\카카오톡 받은 파일 (8)_작업중111\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form1.resources
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (9)_작업중\카카오톡 받은 파일 (8)_작업중111\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form2.resources
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (9)_작업중\카카오톡 받은 파일 (8)_작업중111\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Properties.Resources.resources
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (9)_작업중\카카오톡 받은 파일 (8)_작업중111\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.GenerateResource.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (9)_작업중\카카오톡 받은 파일 (8)_작업중111\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.CoreCompileInputs.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (9)_작업중\카카오톡 받은 파일 (8)_작업중111\NinJaKid\NinJaKid\obj\Debug\NinJaKid.exe
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (9)_작업중\카카오톡 받은 파일 (8)_작업중111\NinJaKid\NinJaKid\obj\Debug\NinJaKid.pdb
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (10)_작업중\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe.config
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (10)_작업중\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (10)_작업중\NinJaKid\NinJaKid\bin\Debug\NinJaKid.pdb
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (10)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csprojResolveAssemblyReference.cache
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (10)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form1.resources
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (10)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form2.resources
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (10)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Properties.Resources.resources
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (10)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.GenerateResource.cache
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (10)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.CoreCompileInputs.cache
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (10)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.exe
+C:\Users\user562\Desktop\새 폴더 (3)\카카오톡 받은 파일 (10)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.pdb
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (10)_작업중\카카오톡 받은 파일 (10)_작업중\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe.config
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (10)_작업중\카카오톡 받은 파일 (10)_작업중\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (10)_작업중\카카오톡 받은 파일 (10)_작업중\NinJaKid\NinJaKid\bin\Debug\NinJaKid.pdb
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (10)_작업중\카카오톡 받은 파일 (10)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csprojResolveAssemblyReference.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (10)_작업중\카카오톡 받은 파일 (10)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form1.resources
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (10)_작업중\카카오톡 받은 파일 (10)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form2.resources
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (10)_작업중\카카오톡 받은 파일 (10)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Properties.Resources.resources
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (10)_작업중\카카오톡 받은 파일 (10)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.GenerateResource.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (10)_작업중\카카오톡 받은 파일 (10)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.CoreCompileInputs.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (10)_작업중\카카오톡 받은 파일 (10)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.exe
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (10)_작업중\카카오톡 받은 파일 (10)_작업중\NinJaKid\NinJaKid\obj\Debug\NinJaKid.pdb
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (10)_작업중\카카오톡 받은 파일 (12)_최종1\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe.config
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (10)_작업중\카카오톡 받은 파일 (12)_최종1\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (10)_작업중\카카오톡 받은 파일 (12)_최종1\NinJaKid\NinJaKid\bin\Debug\NinJaKid.pdb
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (10)_작업중\카카오톡 받은 파일 (12)_최종1\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csprojResolveAssemblyReference.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (10)_작업중\카카오톡 받은 파일 (12)_최종1\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form1.resources
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (10)_작업중\카카오톡 받은 파일 (12)_최종1\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form2.resources
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (10)_작업중\카카오톡 받은 파일 (12)_최종1\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Properties.Resources.resources
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (10)_작업중\카카오톡 받은 파일 (12)_최종1\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.GenerateResource.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (10)_작업중\카카오톡 받은 파일 (12)_최종1\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.CoreCompileInputs.cache
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (10)_작업중\카카오톡 받은 파일 (12)_최종1\NinJaKid\NinJaKid\obj\Debug\NinJaKid.exe
+C:\Users\Hyeona\Desktop\카카오톡 받은 파일 (10)_작업중\카카오톡 받은 파일 (12)_최종1\NinJaKid\NinJaKid\obj\Debug\NinJaKid.pdb
+C:\Users\user562\Desktop\최종\NinJaKid_프로젝트_최종\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe.config
+C:\Users\user562\Desktop\최종\NinJaKid_프로젝트_최종\NinJaKid\NinJaKid\bin\Debug\NinJaKid.exe
+C:\Users\user562\Desktop\최종\NinJaKid_프로젝트_최종\NinJaKid\NinJaKid\bin\Debug\NinJaKid.pdb
+C:\Users\user562\Desktop\최종\NinJaKid_프로젝트_최종\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csprojResolveAssemblyReference.cache
+C:\Users\user562\Desktop\최종\NinJaKid_프로젝트_최종\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form1.resources
+C:\Users\user562\Desktop\최종\NinJaKid_프로젝트_최종\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Form2.resources
+C:\Users\user562\Desktop\최종\NinJaKid_프로젝트_최종\NinJaKid\NinJaKid\obj\Debug\NinJaKid.Properties.Resources.resources
+C:\Users\user562\Desktop\최종\NinJaKid_프로젝트_최종\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.GenerateResource.cache
+C:\Users\user562\Desktop\최종\NinJaKid_프로젝트_최종\NinJaKid\NinJaKid\obj\Debug\NinJaKid.csproj.CoreCompileInputs.cache
+C:\Users\user562\Desktop\최종\NinJaKid_프로젝트_최종\NinJaKid\NinJaKid\obj\Debug\NinJaKid.exe
+C:\Users\user562\Desktop\최종\NinJaKid_프로젝트_최종\NinJaKid\NinJaKid\obj\Debug\NinJaKid.pdb

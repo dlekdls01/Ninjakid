@@ -1,0 +1,9 @@
+C:\Users\dndud\OneDrive\문서\카카오톡 받은 파일\NinJaKid\NinJaKid\bin\Release\NinJaKid.exe.config
+C:\Users\dndud\OneDrive\문서\카카오톡 받은 파일\NinJaKid\NinJaKid\bin\Release\NinJaKid.exe
+C:\Users\dndud\OneDrive\문서\카카오톡 받은 파일\NinJaKid\NinJaKid\bin\Release\NinJaKid.pdb
+C:\Users\dndud\OneDrive\문서\카카오톡 받은 파일\NinJaKid\NinJaKid\obj\Release\NinJaKid.Form1.resources
+C:\Users\dndud\OneDrive\문서\카카오톡 받은 파일\NinJaKid\NinJaKid\obj\Release\NinJaKid.Properties.Resources.resources
+C:\Users\dndud\OneDrive\문서\카카오톡 받은 파일\NinJaKid\NinJaKid\obj\Release\NinJaKid.csproj.GenerateResource.cache
+C:\Users\dndud\OneDrive\문서\카카오톡 받은 파일\NinJaKid\NinJaKid\obj\Release\NinJaKid.csproj.CoreCompileInputs.cache
+C:\Users\dndud\OneDrive\문서\카카오톡 받은 파일\NinJaKid\NinJaKid\obj\Release\NinJaKid.exe
+C:\Users\dndud\OneDrive\문서\카카오톡 받은 파일\NinJaKid\NinJaKid\obj\Release\NinJaKid.pdb
