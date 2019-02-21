@@ -1,12 +1,11 @@
 # Ninjakid
+> This game is a network based two player game 
+
 ![ninjakid](https://user-images.githubusercontent.com/42207679/53154138-6c363280-35fd-11e9-93cd-6f8edaac45ce.JPG)
-////////////////// [Login] //////////////////////////////// [Game_1p(red)] /////////////////////////// [Game_2p(blue)] /////////////
+////////////////// [Login] //////////////////////////////// [Game_1p(red)] /////////////////////////// [Game_2p(blue)] /////////////  
 
 
 
-  ```
-   This game is a network based two player game 
-   ```
    - First, start server executable file and Execute Ninjakid program.  
    - 1p and 2p alternately attack and move with time limit.  
    - The player moves the cell and can hide by moving to the cell with the door.
