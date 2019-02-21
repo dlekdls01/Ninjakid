@@ -14,5 +14,4 @@
    - The player can guess the opponent's position and attack it to lower hp.  
    - Items are created at random locations when the crow graphic moves.
    - The player acquires an item by moving to the space where the item is located or attacking the item
-   - The player can use 
    - If hp is 0, Game is over. And player can restart.
